@@ -1,6 +1,10 @@
 /**
  * Welcome to Java!
  * Link: https://www.hackerrank.com/challenges/welcome-to-java/problem
+ *
+ * O/P:
+ * Hello, World.
+ * Hello, Java.
  */
 
 public class Welcome {
